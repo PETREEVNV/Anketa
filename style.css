@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    width: 500px;
+    align-items: center;
+    padding: 25px;
+}
+input, textarea, select{
+    box-sizing: border-box;
+    display: block;
+    width: 250px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+textarea{
+    height: 75px;
+    resize: none;
+}
+.green{
+width: 160px;
+background-color: LightGreen; 
+}
+.gray{
+width: 350px;
+background-color: LightGray; 
+}
